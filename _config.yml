@@ -21,10 +21,9 @@ author: Jake Nathanson
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact: 
+  - Drop Me a Line: "mailto:jmilesn@gmail.com"
+  - Business Card: "https://dot.cards/jacob_cello_piano"
 
 ################
 # --- Logo --- #
