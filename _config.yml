@@ -20,7 +20,7 @@ author: Jacob Nathanson
 ###############################################
 
 navbar-links:
-  Bio: "/"
+  Bio: "bio"
   Services Offered: "servicesOffered"
   Testimonials: "testimonials"
   Contact: 
