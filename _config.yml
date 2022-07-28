@@ -21,9 +21,13 @@ author: Jake Nathanson
 
 navbar-links:
   About Me: "aboutme"
+  Services Offered: "servicesOffered"
+  Testimonials: "testimonials"
   Contact: 
   - Drop Me a Line: "mailto:jmilesn@gmail.com"
   - Business Card: "https://dot.cards/jacob_cello_piano"
+  Upcoming Events: "upcomingEvents"
+  Porfolio: "portfolio"
 
 ################
 # --- Logo --- #
