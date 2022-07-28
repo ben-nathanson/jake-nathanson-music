@@ -3,14 +3,8 @@ layout: page
 title: Portfolio
 ---
 
-# Youtube
+<h1> Youtube </h1>
 
-### Debussy - Piano and Cello Sonata - 3rd Movement
-[![Debussy - Piano and Cello Sonata - 3rd Movement](https://img.youtube.com/vi/sngnFWvjzvY/0.jpg)](https://www.youtube.com/watch?v=sngnFWvjzvY "Debussy - Piano and Cello Sonata - 3rd Movement")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sngnFWvjzvY" title="Debussy - Piano and Cello Sonata - 3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Rachmaninoff - Sonata for Piano and Cello - 3rd Movement
-[![Rachmaninoff - Sonata for Piano and Cello - 3rd Movement](https://img.youtube.com/vi/F151RksASbA/0.jpg)](https://www.youtube.com/watch?v=F151RksASbA "Rachmaninoff - Sonata for Piano and Cello - 3rd Movement")
-
-# Spotify
-
-## TODO
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F151RksASbA" title="Rachmaninoff - Sonata for Piano and Cello - 3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
