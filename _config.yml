@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Jake Nathanson Music
+title: My Website
 
 # Your name to show in the footer
 author: Jake Nathanson
@@ -48,22 +48,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jmilesn@gmail.com"
+  # email: "jmilesn@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: jacob.nathanson.1
+  # facebook: jacob.nathanson.1
   # github: daattali
   # twitter: daattali
   # patreon: DeanAttali
-  youtube: JMILESN1
+  # youtube: JMILESN1
 #  medium: yourname
 #  reddit: yourname
- linkedin: jacob-nathanson-55088187
+#  linkedin: jacob-nathanson-55088187
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
- telephone: +14128411076
+#  telephone: +14128411076
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
