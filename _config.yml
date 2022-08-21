@@ -25,7 +25,9 @@ navbar-links:
   Services Offered: "pages/services-offered"
   Testimonials: "pages/testimonials"
   Contact: 
-  - Drop Me a Line: "mailto:jmilesn@gmail.com?subject=I saw your website and would like to learn more!"
+  - email: "mailto:jmilesn@gmail.com?subject=I saw your website and would like to learn more!"
+  - facebook: https://www.facebook.com/jacob.nathanson.1
+  - youtube: https://www.youtube.com/JMILESN1
   Portfolio: "pages/portfolio"
 
 ################
