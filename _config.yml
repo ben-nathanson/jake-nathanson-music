@@ -22,12 +22,12 @@ author: Jacob Nathanson
 navbar-links:
   Home: "/"
   Bio: "pages/bio"
-  Services Offered: "pages/servicesOffered"
+  Services Offered: "pages/services-offered"
   Testimonials: "pages/testimonials"
   Contact: 
   - Drop Me a Line: "mailto:jmilesn@gmail.com?subject=I saw your website and would like to learn more!"
   - Business Card: "https://dot.cards/jacob_cello_piano"
-  Upcoming Events: "pages/upcomingEvents"
+  Upcoming Events: "pages/upcoming-events"
   Portfolio: "pages/portfolio"
 
 ################
