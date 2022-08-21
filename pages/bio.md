@@ -3,6 +3,9 @@ layout: page
 title: Bio
 ---
 
+<div align="center">
+    <img src="https://pittsburghstrings.com/assets/img/headshot.webp" width="400">
+</div>
 
 Jacob Nathanson is a freelance cellist in Pittsburgh, PA. Current engagements include orchestral concerts with the Butler Symphony, Youngstown Symphony, Greenville Symphony, and the Erie Philharmonic as well as playing chamber music and as a soloist for weddings and events based primarily in Pittsburgh.
 
