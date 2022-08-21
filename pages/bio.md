@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bio
-cover-img: assets/img/headshot.webp
 ---
 
 
