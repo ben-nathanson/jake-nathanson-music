@@ -36,3 +36,13 @@ Judith P.
 Pittsburgh, PA
 
 ___
+
+> I knew that Jacob’s performance during my son’s rehearsal dinner at Duquesne University’s Power Center was going to be special when we had our planning call to discuss music selections.  Jacob encouraged me to think about the type of music we might enjoy and offered the names of sites where I could sample potential selections. Nothing was off limits. He was incredibly focused on the plans for his performance together with the ensemble he organized.
+> 
+> Jacob’s musical acumen is exceptional and his gracious personality is so inviting. Both during cocktails and dinner, our guests were treated to a wonderful performance to compliment a perfect evening.
+
+Linda M.
+
+Pittsburgh, PA
+
+___
