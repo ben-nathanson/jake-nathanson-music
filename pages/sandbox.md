@@ -5,6 +5,7 @@ title: Sandbox
 
 <div class="row">
   <div class="column">
+  <h1>Venues Commonly Played</h1>
     <ul>
         <li>Allegheny Country Club</li>
         <li>Bella Sera</li>
@@ -26,7 +27,7 @@ title: Sandbox
     </ul>
   </div>
   <div class="column">
-    <h1>Venues Commonly Played</h1>
+    <h1>Previous Performances</h1>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sngnFWvjzvY" title="Debussy <li>Piano and Cello Sonata <li>3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/F151RksASbA" title="Rachmaninoff <li>Sonata for Piano and Cello <li>3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
