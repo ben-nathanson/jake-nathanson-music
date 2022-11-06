@@ -3,10 +3,33 @@ layout: page
 title: Sandbox
 ---
 
-# Option 1
+<div class="row">
+  <div class="column">
+    <ul>
+        <li>Allegheny Country Club</li>
+        <li>Bella Sera</li>
+        <li>Carnegie Museum of Art</li>
+        <li>Carnegie Science Center</li>
+        <li>Heinz Chapel</li>
+        <li>Hotel Monaco</li>
+        <li>Lake Shore Country Club</li>
+        <li>Longue Vue Club</li>
+        <li>National Aviary</li>
+        <li>Nemacolin Woodlands Resort</li>
+        <li>Omni Bedford Springs</li>
+        <li>Omni William Penn</li>
+        <li>Phipps Conservatory and Botanical Gardens</li>
+        <li>Pinerock Farms</li>
+        <li>Pittsburgh Botanic Garden</li>
+        <li>Rustic Acres Farm</li>
+        <li>The Edgewood Club</li>
+    </ul>
+  </div>
+  <div class="column">
+    <h1>Venues Commonly Played</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sngnFWvjzvY" title="Debussy <li>Piano and Cello Sonata <li>3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=1&showTabs=0&mode=AGENDA&showTz=0&showCalendars=0&showPrint=0&showNav=0&src=Y18zNGUxNjYzMWMyZmVlMDA2ZmUxZjU0MzIzMjViZWYxOWNjYTMzZTg4YmE5OTBlMWEwMWMzYzdhOTJkZjFlYjliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/F151RksASbA" title="Rachmaninoff <li>Sonata for Piano and Cello <li>3rd Movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  </div>
+</div> 
 
-# Option 2
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=1&showTabs=0&mode=AGENDA&showTz=0&showCalendars=0&showPrint=0&showNav=0&src=Y18zNGUxNjYzMWMyZmVlMDA2ZmUxZjU0MzIzMjViZWYxOWNjYTMzZTg4YmE5OTBlMWEwMWMzYzdhOTJkZjFlYjliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F6BF26" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
