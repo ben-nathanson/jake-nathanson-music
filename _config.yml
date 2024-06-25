@@ -24,8 +24,7 @@ navbar-links:
   Bio: "pages/bio"
   Services Offered: "pages/services-offered"
   Testimonials: "pages/testimonials"
-  Contact: 
-  - email: "mailto:jmilesn@gmail.com?subject=I saw your website and would like to learn more!"
+  Contact: "pages/contact"
   Portfolio: "pages/portfolio"
 
 ################
@@ -51,7 +50,6 @@ title-img: "/assets/img/bass-clef.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jmilesn@gmail.com"
   facebook: jacob.nathanson.1
 #  youtube: JMILESN1
 #  instagram: TODO
