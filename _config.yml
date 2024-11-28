@@ -21,11 +21,10 @@ author: Jacob Nathanson
 
 navbar-links:
   Home: "/"
-  Bio: "pages/bio"
-  Services Offered: "pages/services-offered"
-  Testimonials: "pages/testimonials"
-  Contact: "pages/contact"
-  Portfolio: "pages/portfolio"
+  Bio: "/#bio"
+  Services Offered: "/#services-offered"
+  Testimonials: "/#testimonials"
+  Portfolio: "/#portfolio"
 
 ################
 # --- Logo --- #
